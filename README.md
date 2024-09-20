@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left" border-bottom="1px solid lightgray">👩‍💻  About Me</h3>
+<h3 align="left" border-bottom="1px solid blue">👩‍💻  About Me</h3>
 
 ###
 
