@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left" border-bottom="1px solid lightgray">👩‍💻  About Me</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left" border-bottom="1px solid lightgray">🛠 Language and tools</h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">📊   My activitie:</h3>
+<h3 align="left" border-bottom="1px solid lightgray">📊   My activitie:</h3>
 
 ###
 
@@ -67,7 +67,7 @@
 
 ###
 
-<h3 align="left">🔗​ My socials</h3>
+<h3 align="left" border-bottom="1px solid lightgray">🔗​ My socials</h3>
 
 ###
 
