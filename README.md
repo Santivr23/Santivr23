@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" witdh="1000" src="https://github.com/Santivr23/Santivr23/blob/main/banner.png"  />
+  ![Header](./banner.png)
 </div>
 
 ###
