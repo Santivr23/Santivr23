@@ -1,6 +1,4 @@
-<div align="center">
-  ![Header](./banner.png)
-</div>
+![Header](./banner.png)
 
 ###
 
