@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">· 📭 How to reach me <a>santivilro@gmail.com</a><br><br> · 👨🏻‍💻 All my projects in <a>https://santivr23.github.io/portfolio/</a><br><br>· 📚 Web Developer in Málaga<br><br>· 🔭 Focused on myself and my passion<br><br>· 🌱 I am constantly learning about new technologies and methodologies<br><br>· 💬 I am positive, enthusiastic, a good teammate and I always give my best</p>
+<p align="left">· 📭 How to reach me [santivilro@gmail.com](mailto:santivilro@gmail.com)<br><br> · 👨🏻‍💻 All my projects in [Portfolio](https://santivr23.github.io/portfolio/)<br><br>· 📚 Web Developer in Málaga<br><br>· 🔭 Focused on myself and my passion<br><br>· 🌱 I am constantly learning about new technologies and methodologies<br><br>· 💬 I am positive, enthusiastic, a good teammate and I always give my best</p>
 
 ###
 
